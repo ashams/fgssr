@@ -1,5 +1,3 @@
-/*
-
 #include <iostream>
 
 using namespace std;
@@ -38,4 +36,3 @@ int main()
         cout << "END";
         return 0;
 }
-*/
