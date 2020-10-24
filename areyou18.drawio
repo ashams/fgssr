@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2020-10-24T09:27:56.057Z" agent="5.0 (X11)" version="13.8.1" etag="ZEak3h_pUiH0LMrjMO7O" type="github"><diagram id="mQR002PnCJXlBmVzRbBh">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-24T09:33:41.288Z" agent="5.0 (X11)" etag="2sES_LAwctkBQ11hr7PQ" version="13.8.1" type="github">
+  <diagram id="mQR002PnCJXlBmVzRbBh" name="Page-1">
+    <mxGraphModel dx="1108" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="h36aj-YFXiX6rsbgjPVk-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h36aj-YFXiX6rsbgjPVk-1" target="h36aj-YFXiX6rsbgjPVk-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h36aj-YFXiX6rsbgjPVk-1" value="START" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h36aj-YFXiX6rsbgjPVk-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h36aj-YFXiX6rsbgjPVk-3" target="h36aj-YFXiX6rsbgjPVk-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h36aj-YFXiX6rsbgjPVk-3" value="Enter your age: " style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h36aj-YFXiX6rsbgjPVk-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h36aj-YFXiX6rsbgjPVk-5" target="h36aj-YFXiX6rsbgjPVk-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h36aj-YFXiX6rsbgjPVk-5" value="Store int x" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h36aj-YFXiX6rsbgjPVk-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h36aj-YFXiX6rsbgjPVk-8" target="h36aj-YFXiX6rsbgjPVk-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h36aj-YFXiX6rsbgjPVk-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h36aj-YFXiX6rsbgjPVk-8" target="h36aj-YFXiX6rsbgjPVk-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h36aj-YFXiX6rsbgjPVk-8" value="Is x&amp;gt;=18?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="210" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h36aj-YFXiX6rsbgjPVk-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h36aj-YFXiX6rsbgjPVk-10" target="h36aj-YFXiX6rsbgjPVk-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h36aj-YFXiX6rsbgjPVk-10" value="&lt;div&gt;If true:&lt;/div&gt;&lt;div&gt;print &quot;You are eligible for voting&quot;&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h36aj-YFXiX6rsbgjPVk-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h36aj-YFXiX6rsbgjPVk-13" target="h36aj-YFXiX6rsbgjPVk-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h36aj-YFXiX6rsbgjPVk-13" value="&lt;div&gt;If false:&lt;/div&gt;&lt;div&gt;print &quot;You are not eligible for voting&quot;&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="320" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="h36aj-YFXiX6rsbgjPVk-15" value="STOP" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="315" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
