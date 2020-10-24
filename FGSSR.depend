@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1603464492 source:/home/ashams/FGSSR/main.cpp
+	<iostream>
+
+1603408028 source:/home/ashams/FGSSR/sumavg5nums.cpp
+
+1603408631 source:/home/ashams/FGSSR/kalvinc.cpp
+	<iostream>
+
+1603409030 source:/home/ashams/FGSSR/ctokf.cpp
+	<iostream>
+
+1603459871 source:/home/ashams/FGSSR/oddoreven.cpp
+	<iostream>
+
+1603460265 source:/home/ashams/FGSSR/circlecircumference.cpp
+	<iostream>
+
+1603464469 source:/home/ashams/FGSSR/calcannsalary.cpp
+	<iostream>
+
