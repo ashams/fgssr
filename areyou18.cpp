@@ -1,5 +1,4 @@
 #include <iostream>
-
 using namespace std;
 
 int main()
@@ -14,7 +13,7 @@ int main()
             cout << "You are NOT eligible to vote!";
         }
 
-        cout << "END";
+        cout << "\nEND";
         return 0;
 }
 
